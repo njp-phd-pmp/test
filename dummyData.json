@@ -1,8 +1,8 @@
 [
-    {"UserName": "John",    "number": "150",   "score": "100", "goals": "30"},
-    {"UserName": "Paul",    "number": "100",   "score":  "75", "goals": "35"},
-    {"UserName": "George",  "number": "200",   "score":  "50", "goals": "10"},
-    {"UserName": "Richard", "number":  "50",   "score":   "5", "goals":  "2"},
-    {"UserName": "Pete",    "number":   "0",   "score":  "20", "goals":  "3"},
-    {"UserName": "Stuart",  "number":  "25",   "score":  "40", "goals":  "5"}
+    {"UserName": "John",    "Instrument": "Cello",  "score": "100", "goals": "30"},
+    {"UserName": "Paul",    "Instrument": "Tuba",   "score":  "75", "goals": "35"},
+    {"UserName": "George",  "Instrument": "Cello",  "score":  "50", "goals": "10"},
+    {"UserName": "Richard", "Instrument": "Oboe",   "score":   "5", "goals":  "2"},
+    {"UserName": "Pete",    "Instrument": "Oboe",   "score":  "20", "goals":  "3"},
+    {"UserName": "Stuart",  "Instrument": "Tuba",   "score":  "40", "goals":  "5"}
 ]
